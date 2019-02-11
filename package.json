@@ -1,0 +1,20 @@
+{
+  "name": "leonidlezner_github_io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonidlezner/leonidlezner-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonidlezner/leonidlezner-page/issues"
+  },
+  "homepage": "https://github.com/leonidlezner/leonidlezner-page#readme"
+}
