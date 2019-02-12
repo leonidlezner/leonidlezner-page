@@ -10,13 +10,18 @@ addons:
             - ubuntu-toolchain-r-test
         packages:
             - g++-4.8
+
 install:
     - npm install -g vuepress
+
 script:
     - npm run docs:build
+
 cache:
     directories:
         - "node_modules"
+        - $(npm config get prefix)/bin/vuepress
+
 notifications:
     email: false    
 
