@@ -8,7 +8,7 @@ module.exports = {
                 { text: 'Quellen', link: '/quellen/' },
                 { text: 'Toolbox', link: '/toolbox/' },
             ],
-            sidebar: [
+            /*sidebar: [
                 {
                     title: 'Counter',
                     collapsable: false,
@@ -24,6 +24,6 @@ module.exports = {
                         '/guide/api'
                     ]
                 }
-                ]
+                ]*/
         }
 };
