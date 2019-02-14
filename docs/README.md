@@ -1,6 +1,6 @@
 ---
 home: true
-footer: [CC4](https://creativecommons.org/licenses/by/4.0/) | Copyright © 2018-present Leonid and contributors
+footer: Creative Commons 4 Licensed | Copyright © 2019-present Leonid and contributors
 ---
 
 # Willkommen im Blog von Leonid 
