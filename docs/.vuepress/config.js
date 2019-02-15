@@ -1,28 +1,29 @@
 module.exports = {
-    title: "Leonid's blog",
-    description: "The small knowledge bucket of Leonid Lezner",
+    title: "Leonids Blog",
+    description: "Ich schreibe hier nach Lust und Laune...",
     
     themeConfig:{
+            displayAllHeaders: true,
             nav: [
-                { text: 'Quellen', link: '/quellen/' },
-                { text: 'Toolbox', link: '/toolbox/' },
+                { text: 'Impressum', link: '/impressum.html' },
+                { text: 'Mitmachen', link: '/contribute.html' },
             ],
-            /*sidebar: [
+            sidebar: [
                 {
-                    title: 'Counter',
+                    title: 'Wissenswert',
                     collapsable: false,
                     children: [
-                    '/counter/counter-app'
+                        '/blog/',
+                        '/toolbox/',
                     ]
                 },
                 {
-                    title: 'API Guide',
+                    title: 'Lesezeichen',
                     collapsable: false,
                     children: [
-                        '/guide/guide',
-                        '/guide/api'
+                    '/quellen/'
                     ]
-                }
-                ]*/
+                },
+                ]
         }
 };
