@@ -5,7 +5,7 @@ footer: Creative Commons 4 Licensed | Copyright © 2019-present Leonid and contr
 
 # Willkommen im Blog von Leonid Lezner
 
-Hi :smiley: Willkommen auf unserer kleinen Infoseite. Hier versuchen wir praktische und hilfreiche Informationen zu veröffentlichen, von denen du privat und beruflich profitieren könntest. Betrachte die Auswahl als einen Supermarkt :shopping_cart:: Du nimmst das was du brauchst, was dir nicht passt, kannst einfach liegen lassen. Du kannst außerdem dein [Feedback](/feedback.html) mit uns teilen oder die Seite bei Github forken und deine Informationen ergänzen ([so kannst du mitmachen](/contribute.html)).
+Hi :smiley: Willkommen auf meiner kleinen Infoseite. Hier versuchen ich und Kontributoren praktische und hilfreiche Informationen zu veröffentlichen, von denen du privat und beruflich profitieren könntest. Betrachte die Auswahl als einen Supermarkt :shopping_cart:: Du nimmst das was du brauchst, was dir nicht passt, kannst einfach liegen lassen. Du kannst außerdem dein [Feedback](/feedback.html) mit mir teilen oder die Seite bei Github forken und deine Informationen ergänzen ([so kannst du mitmachen](/contribute.html)).
 
 ## Welche Bereiche gibt es hier?
 
