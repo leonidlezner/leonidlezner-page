@@ -2,4 +2,4 @@
 
 Hier entsteht etwas großartiges...
 
-[PM Principles](blog/pm-principles.html)
+[PM Principles](pm-principles.html)
